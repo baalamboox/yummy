@@ -603,7 +603,7 @@
                             <i class="bi bi-quote quote-icon-right"></i>
                         </p>
                         <h3>Fernando Sebastian Maldad</h3>
-                        <h4>Programador de pedas</h4>
+                        <h4>Programador</h4>
                         <div class="stars">
                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                         </div>
@@ -626,7 +626,7 @@
                             Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
                             <i class="bi bi-quote quote-icon-right"></i>
                         </p>
-                        <h3>Jade Komanda Puzyr</h3>
+                        <h3>Jade Gaminio</h3>
                         <h4>Empresaria de "Espero que te encuentres bien"</h4>
                         <div class="stars">
                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
@@ -744,7 +744,7 @@
 
             <div class="section-header">
             <h2>Chefs</h2>
-            <p>Si no es para toda la vida, <span>es para toda la banda.</span></p>
+            <p>Si no es para toda la vida, <span>es para el paladar.</span></p>
             </div>
 
             <div class="row gy-4">
@@ -752,7 +752,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="chef-member">
                 <div class="member-img">
-                    <img src="{{ asset('img/friends/uri.jpg') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('img/chefs/chefs-3.jpg') }}" class="img-fluid" alt="">
                     <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -761,8 +761,8 @@
                     </div>
                 </div>
                 <div class="member-info">
-                    <h4>Uriel Salatiel Cuapio</h4>
-                    <span>Cheff de amigos por siempre</span>
+                    <h4>Uriel Salatiel</h4>
+                    <span>Cheff</span>
                     <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum exercitationem iure minima enim corporis et voluptate.</p>
                 </div>
                 </div>
@@ -771,7 +771,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                 <div class="chef-member">
                 <div class="member-img">
-                    <img src="{{ asset('img/friends/yamileth.jpg') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('img/chefs/chefs-2.jpg') }}" class="img-fluid" alt="">
                     <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -781,7 +781,7 @@
                 </div>
                 <div class="member-info">
                     <h4>Yamileth de los Santos</h4>
-                    <span>Chef en amores prohibidos</span>
+                    <span>Chef</span>
                     <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis. Voluptate sed quas reiciendis animi neque sapiente.</p>
                 </div>
                 </div>
@@ -790,7 +790,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                 <div class="chef-member">
                 <div class="member-img">
-                    <img src="{{ asset('img/friends/pollo.jpg') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('img/chefs/chefs-1.jpg') }}" class="img-fluid" alt="">
                     <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -799,8 +799,8 @@
                     </div>
                 </div>
                 <div class="member-info">
-                    <h4>El Pollo Gonzales</h4>
-                    <span>Chichi Ramirez</span>
+                    <h4>Enrique Gonzales</h4>
+                    <span>Chef</span>
                     <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut architecto porro aspernatur molestiae modi.</p>
                 </div>
                 </div>
