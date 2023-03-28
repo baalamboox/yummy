@@ -13,6 +13,6 @@ class RatingsController extends Controller
         $ratings->town = $req['town'];
         $ratings->rating = $req['rate'];
         $ratings->save();
-        return redirect('/');
+        return redirect('/#form_rateme');
     }
 }

@@ -43,7 +43,7 @@
     <header id="header" class="header fixed-top d-flex align-items-center">
         <div class="container d-flex align-items-center justify-content-between">
 
-        <a href="index.html" class="logo d-flex align-items-center me-auto me-lg-0">
+        <a href="/" class="logo d-flex align-items-center me-auto me-lg-0">
             <!-- Uncomment the line below if you also wish to use an image logo -->
             <img src="{{ asset('img/logo.png') }}" alt="">
             <h1>Yummy<span>.</span></h1>
@@ -77,7 +77,7 @@
             <p data-aos="fade-up" data-aos-delay="100">Sed autem laudantium dolores. Voluptatem itaque ea consequatur eveniet. Eum quas beatae cumque eum quaerat.</p>
             <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
                 <a href="#book-a-table" class="btn-book-a-table">Reservar una mesa</a>
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Ver video</span></a>
+                <a href="https://www.youtube.com/watch?v=ZRQeBKTbzYk" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Ver video</span></a>
             </div>
             </div>
             <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
@@ -123,7 +123,7 @@
 
                 <div class="position-relative mt-4">
                     <img src="{{ asset('img/about-2.jpg') }}" class="img-fluid" alt="">
-                    <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+                    <a href="https://www.youtube.com/watch?v=ZRQeBKTbzYk" class="glightbox play-btn"></a>
                 </div>
                 </div>
             </div>
@@ -627,7 +627,7 @@
                             <i class="bi bi-quote quote-icon-right"></i>
                         </p>
                         <h3>Jade Gaminio</h3>
-                        <h4>Empresaria de "Espero que te encuentres bien"</h4>
+                        <h4>Empresaria</h4>
                         <div class="stars">
                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                         </div>
@@ -651,7 +651,7 @@
                             <i class="bi bi-quote quote-icon-right"></i>
                         </p>
                         <h3>Osvaldo Colon de Sebastian</h3>
-                        <h4>Ingeniero Chapulin 2.0</h4>
+                        <h4>Ingeniero</h4>
                         <div class="stars">
                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                         </div>
@@ -675,7 +675,7 @@
                             <i class="bi bi-quote quote-icon-right"></i>
                         </p>
                         <h3>Luis Alberto Attack</h3>
-                        <h4>Expecialista en tacticas de capulineo avanzado</h4>
+                        <h4>Hacker</h4>
                         <div class="stars">
                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                         </div>
@@ -949,7 +949,7 @@
 
             </div>
 
-            <form action="{{ route('send_rate') }}" method="post" role="form" class="php-email-form p-3 p-md-4">
+            <form action="{{ route('send_rate') }}" method="post" role="form" class="php-email-form p-3 p-md-4" id="form_rateme">
                 @csrf
                 @method('POST')
                 <div class="row">
@@ -1032,7 +1032,7 @@
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/ -->
-            Desarrollado por <a href="#xzunun">Xzunun S.A de C.V</a>
+            Desarrollado por <a href="#xzunun">el Jairs</a>
         </div>
         </div>
 
